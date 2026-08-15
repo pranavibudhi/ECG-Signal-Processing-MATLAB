@@ -2,7 +2,7 @@
 % ECG Signal Processing & Heart Rate Analysis
 % Biomedical Engineering Project
 %
-% Author: Pranavi Budhi
+% Author: Veera Pranavi Budhi
 %
 % Description:
 %   1. Loads ECG data from the MIT-BIH Arrhythmia Database
@@ -32,7 +32,7 @@ duration = 60;     % Seconds of ECG to analyze
 
 load('../data/100m.mat');
 
-% Select Lead I
+% Select MLII lead
 ecg = double(val(1,:));
 
 % Keep only the first 60 seconds
