@@ -115,7 +115,7 @@ The project generates six figures describing the ECG signal and cardiac timing c
 Comparison of the original ECG signal and the filtered ECG signal.
 
 File: `results/filtered_ecg.png`
-
+[ecg](results/filtered_ecg.png)
 
 ### Figure 2 — Detected R-Peaks
 
