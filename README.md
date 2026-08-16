@@ -158,9 +158,11 @@ The MATLAB program automatically generates a numerical summary.
 
 Example:
 
+```text
 =========================================
-ECG ANALYSIS SUMMARY
+           ECG ANALYSIS SUMMARY
 =========================================
+
 Recording Length : 60 seconds
 Heartbeats       : 74
 Average HR       : 74.0 BPM
@@ -168,12 +170,11 @@ Maximum HR       : 91.9 BPM
 Minimum HR       : 60.2 BPM
 Mean RR Interval : 0.812 seconds
 SDNN             : 0.038 seconds
+
 =========================================
 
 
-## Project Structure
-
-ECG-Signal-Processing/
+ECG-Signal-Processing-MATLAB/
 │
 ├── data/
 │   └── 100m.mat
@@ -196,7 +197,9 @@ ECG-Signal-Processing/
 ├── report/
 │   └── ECG_Analysis_Report.pdf
 │
-└── README.md
+├── README.md
+├── .gitignore
+└── .gitattributes
 
 
 ## MATLAB Files
