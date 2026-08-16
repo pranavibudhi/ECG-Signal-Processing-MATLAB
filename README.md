@@ -172,11 +172,11 @@ Mean RR Interval : 0.812 seconds
 SDNN             : 0.038 seconds
 
 =========================================
-```text
-
+```
 
 ## Project Structure
 
+```text
 ECG-Signal-Processing-MATLAB/
 │
 ├── data/
@@ -200,9 +200,8 @@ ECG-Signal-Processing-MATLAB/
 ├── report/
 │   └── ECG_Analysis_Report.pdf
 │
-├── README.md
-├── .gitignore
-└── .gitattributes
+└── README.md
+```
 
 
 ## MATLAB Files
