@@ -114,8 +114,7 @@ The project generates six figures describing the ECG signal and cardiac timing c
 
 Comparison of the original ECG signal and the filtered ECG signal.
 
-File: `results/filtered_ecg.png`
-[ecg](results/filtered_ecg.png)
+![results/filtered_ecg.png](results/filtered_ecg.png)
 
 ### Figure 2 — Detected R-Peaks
 
@@ -127,29 +126,25 @@ Filtered ECG signal with detected R-peaks marked on the waveform.
 
 Instantaneous heart rate calculated from consecutive RR intervals.
 
-File: `results/heart_rate.png`
-
+![results/heart_rate.png](results/heart_rate.png)
 
 ### Figure 4 — RR Intervals Over Time
 
 Beat-to-beat variation in RR intervals.
 
-File: `results/hrv_plot.png`
-
+![results/hrv_plot.png](results/hrv_plot.png)
 
 ### Figure 5 — RR Interval Distribution
 
 Histogram showing the distribution of detected RR intervals.
 
-File: `results/rr_histogram.png`
-
+![results/rr_histogram.png](results/rr_histogram.png)
 
 ### Figure 6 — HRV Boxplot
 
 Boxplot showing the distribution of RR intervals.
 
-File: `results/hrv_boxplot.png`
-
+![results/hrv_boxplot.png](results/hrv_boxplot.png)
 
 ## Example Results
 
