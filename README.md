@@ -121,7 +121,6 @@ File: `results/filtered_ecg.png`
 
 Filtered ECG signal with detected R-peaks marked on the waveform.
 
-File: `results/detected_peaks.png`
 ![results/detected_peaks.png](results/detected_peaks.png)
 
 ### Figure 3 — Heart Rate Over Time
